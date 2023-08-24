@@ -25,5 +25,5 @@ typings/
 .env
 .next
 .vscode
-config.js
+# config.js
 dist
